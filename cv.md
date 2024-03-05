@@ -42,4 +42,4 @@
 + Program language: C++
 
 ## GitHub 
-[StanislavSugak](https://github.com/StanislavSugak"GitHub")
+[StanislavSugak](https://github.com/StanislavSugak)
