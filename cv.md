@@ -15,3 +15,15 @@
 + [Stanislav71492584](https://mail.google.com/mail/u/0/#inbox "My gmail.com")
 + [@Stasi4ekKk](https://web.telegram.org/k/#@Stasi4ekKk "My telegram")
 
+## EDUCATION
+#### 2011-2022 General secondary education - SEI "Secondary school  No.  13 of Mozyr"
+##### Gomel region, c. Mozyr,b. Yunosti, 47, mozsh13@mozyrroo.by.
+                    
+#### 2022-till presen basic Higher education (Bachelor) - Belarusian-Russian University
+##### Belarus, c. Mogile, ave. Mira 43., bru@bru.by
+
+## PROGRAMMING IN
++ C# basic knowledge. OOP. The profiling language.
++ C++ basic knowledge. OOP.
++ HTML creating high-quality website markup
++ CSS proper use of styles
