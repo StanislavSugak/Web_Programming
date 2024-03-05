@@ -2,7 +2,7 @@
 
 ## Sugak Stanislav
 
-![failed](_stanislavv_1708039767833.jpeg)        
+![failed](photo.jpeg)        
 
 #### A cheerful, purposeful and persevering person. In addition to programming, I am engaged in drawing and photography. I'm learning video editing and animation. He is self-disciplined in his studies and personal projects. I study several programming languages from scratch on my own and help others.
 
