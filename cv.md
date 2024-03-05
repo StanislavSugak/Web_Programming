@@ -27,3 +27,19 @@
 + C++ basic knowledge. OOP.
 + HTML creating high-quality website markup
 + CSS proper use of styles
+
+
+## EXPERIENCE
+### May 2023. Testing students
+#### This work allows you to conduct a survey, collect and save information for subsequent processing and analysis among created groups and users in them.
++ Adding and taking an open test
++ Does not provide development capabilities
++ Program language: C#
+                                    
+### December 2023. Creating tests and questionnaires
+                           
+#### This program provides the user with testing without providing personal data. The administrator has the ability to create, edit and delete tests.
++ Program language: C++
+
+## GitHub 
+[StanislavSugak](https://github.com/StanislavSugak"GitHub")
